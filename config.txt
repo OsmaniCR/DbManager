@@ -1,0 +1,5 @@
+DbName xinterbus
+User ocasanueva
+Password uf7pDVRc2CCAjwAqKYkC
+Host 190.114.255.158
+Port 5432
