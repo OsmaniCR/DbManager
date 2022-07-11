@@ -1,5 +1,5 @@
 def _do_simple_query(*args):
-    """Se pasa un primer argumento con el nombre de la acción y otro con la informacion de la tabla (_get_table_info de db_structure)
+    """Se pasa un argumento con el nombre de la acción y otro con la informacion de la tabla (_get_table_info de db_structure)
         Ej: do_simple_query('update', 5)
         Retorna la simple query
     """
